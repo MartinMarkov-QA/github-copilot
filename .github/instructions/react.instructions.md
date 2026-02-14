@@ -1,4 +1,8 @@
-<!-- This file contains automatic instructions for writing React components in the project. It is intended to ensure consistency and maintainability across the codebase and is applicable to all React components in under the `src/components` directory. --> 
+<!-- This file contains automatic instructions for writing React components in the project. It is intended to ensure consistency and maintainability across the codebase and is applicable to all React components in under the `src/components` directory. 
+
+If the apply to attribute is not specified in the file we need to use the Add Context menu to specify the files that the instructions apply to.
+
+--> 
 
 ---
 applyTo: "**/src/**/components/**/*.tsx"
